@@ -28,11 +28,11 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "嘘，开始啦~",
-        play: "music！",
+        play: "music！！",
         bannar_coming: "开始装饰",
         balloons_flying: "来，松手，让气球飞",
         cake_fadein: "上蛋糕",
-        light_candle: "点上蜡烛",
+        light_candle: "点上蜡烛，别忘了许愿哦",
         wish_message: "生日快乐",
         story: "给你的留言",
     }
