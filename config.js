@@ -30,9 +30,9 @@ var config = {
         turn_on: "嘘，开始啦~",
         play: "music！",
         bannar_coming: "装饰起来",
-        balloons_flying: "松手，让气球飞",
-        cake_fadein: "蛋糕？",
-        light_candle: "烛光？",
+        balloons_flying: "来，松手，让气球飞",
+        cake_fadein: "上蛋糕",
+        light_candle: "点上蜡烛",
         wish_message: "生日快乐",
         story: "给你的留言",
     }
