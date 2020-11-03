@@ -29,11 +29,11 @@ var config = {
     desc: {
         turn_on: "嘘，开始啦~",
         play: "music！",
-        bannar_coming: "添上色彩",
-        balloons_flying: "装饰起来",
+        bannar_coming: "装饰起来",
+        balloons_flying: "松手，让气球飞",
         cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
+        light_candle: "烛光？",
         wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        story: "给你的留言",
     }
 };
