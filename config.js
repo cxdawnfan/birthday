@@ -29,7 +29,7 @@ var config = {
     desc: {
         turn_on: "嘘，开始啦~",
         play: "music！",
-        bannar_coming: "装饰起来",
+        bannar_coming: "开始装饰",
         balloons_flying: "来，松手，让气球飞",
         cake_fadein: "上蛋糕",
         light_candle: "点上蜡烛",
